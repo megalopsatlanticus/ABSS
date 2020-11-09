@@ -1,6 +1,6 @@
 # ABSS
 Automated Biological Sampling System
-############Welcome to ABBS, your next generation Population Analysis Tool####################
+###Welcome to ABBS, your next generation Population Analysis Tool###
 
 ABBS is a system for sampling biological populations. We say system, because it is. However it is user-deployable, and the source code open-source if you have access to the necessary components. 
 
